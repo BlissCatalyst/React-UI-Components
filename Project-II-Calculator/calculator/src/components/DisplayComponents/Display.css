@@ -1,11 +1,11 @@
 .display {
-    color: white;
-    background-color: #272727;
+    color: #ffffff;
+    background-color: #222222;
     width: 456px;
     height: 128px;
     font-size: 72px;
     text-align: right;
     font-weight: lighter;
     border: 1px solid #969696;
-    /*padding: 28px 10px;*/
+    padding: 28px 5px;
 }
