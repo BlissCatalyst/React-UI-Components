@@ -6,3 +6,5 @@ const ActionButton = props => {
         <button className={props.zeroClearStyle}>{props.text}</button>
     );
 };
+
+export default ActionButton;
