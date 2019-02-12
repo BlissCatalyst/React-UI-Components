@@ -1,0 +1,27 @@
+.action {
+    width: 336px;
+    height: 94px;
+    background-color: white;
+    border: 1px solid #e3e3e3;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.operation {
+    width: 120px;
+    height: 94px;
+    color: white;
+    background-color: #9e0523;
+    font-size: 50px;
+    border: 1px solid #e3e3e3;
+    font-weight: 200;
+}
+
+.number {
+    width: 112px;
+    height: 94px;
+    background-color: white;
+    font-size: 50px;
+    border: 1px solid #e3e3e3;
+    font-weight: 200;
+}
